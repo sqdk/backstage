@@ -1,5 +1,12 @@
 # @backstage/cli
 
+## 0.17.1-next.1
+
+### Patch Changes
+
+- 4d8736eded: Changed Rollup configuration for TypeScript definition plugin to ignore `css`,
+  `scss`, `sass`, `svg`, `eot`, `woff`, `woff2` and `ttf` files.
+
 ## 0.17.1-next.0
 
 ### Patch Changes
