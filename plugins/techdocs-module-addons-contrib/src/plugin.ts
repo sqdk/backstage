@@ -32,7 +32,7 @@ export const techdocsModuleAddonsContribPlugin = createPlugin({
 });
 
 /**
- * TechDocs add-on that lets you select text and open GitHub/Gitlab issues.
+ * TechDocs Addon that lets you select text and open GitHub/Gitlab issues.
  *
  * @remarks
  * Before using it, you should set up an `edit_uri` for your pages as explained {@link https://backstage.io/docs/features/techdocs/faqs#is-it-possible-for-users-to-suggest-changes-or-provide-feedback-on-a-techdocs-page | here} and remember, it only works for Github or Gitlab.
