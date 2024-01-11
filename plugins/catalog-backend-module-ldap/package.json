@@ -33,7 +33,7 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/backend-tasks": "^0.3.1-next.0",
+    "@backstage/backend-tasks": "^0.5.13",
     "@backstage/catalog-model": "^1.0.1",
     "@backstage/config": "^1.0.0",
     "@backstage/errors": "^1.0.0",
@@ -46,7 +46,7 @@
     "winston": "^3.2.1"
   },
   "devDependencies": {
-    "@backstage/cli": "^0.17.1-next.0",
+    "@backstage/cli": "^0.25.0",
     "@types/lodash": "^4.14.151"
   },
   "files": [

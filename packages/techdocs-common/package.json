@@ -36,7 +36,7 @@
     "url": "https://github.com/backstage/backstage/issues"
   },
   "dependencies": {
-    "@backstage/plugin-techdocs-node": "1.1.1-next.0"
+    "@backstage/plugin-techdocs-node": "^1.11.0"
   },
   "devDependencies": {},
   "jest": {

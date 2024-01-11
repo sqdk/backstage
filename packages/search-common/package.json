@@ -35,7 +35,7 @@
     "url": "https://github.com/backstage/backstage/issues"
   },
   "dependencies": {
-    "@backstage/plugin-search-common": "0.3.3"
+    "@backstage/plugin-search-common": "^1.2.9"
   },
   "devDependencies": {},
   "jest": {

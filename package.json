@@ -2,7 +2,7 @@
   "name": "root",
   "private": true,
   "engines": {
-    "node": "14 || 16"
+    "node": "14 || 16 || 18"
   },
   "scripts": {
     "dev": "concurrently \"yarn start\" \"yarn start-backend\"",
@@ -47,7 +47,10 @@
   "resolutions": {
     "**/@graphql-codegen/cli/**/ws": "^7.4.6",
     "@types/react": "^17",
-    "@types/react-dom": "^17"
+    "@types/react-dom": "^17",
+    "jest-transform-yaml": "^1.1.2",
+    "openid-client": "^5.1.5",
+    "@azure/msal-node": "^1.18.1"
   },
   "version": "1.2.0-next.0",
   "dependencies": {
